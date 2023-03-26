@@ -12,3 +12,6 @@
 
 # Running Container
 ![Docker_Desktop_mYky1dpwQV](https://user-images.githubusercontent.com/76946921/227792115-6157ee6a-6960-4be5-8871-54c5c3c9bbe7.png)
+
+# Container Info
+![cmd_VAWixYpanu](https://user-images.githubusercontent.com/76946921/227792197-0203bcab-5a35-47e9-8344-e24d75f6d7f4.png)
